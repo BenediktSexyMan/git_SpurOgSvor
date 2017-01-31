@@ -26,3 +26,5 @@
 		Sýnir breytingar á milli commits
 	b) git diff --staged
 		Gerir hið sama og --chached
+	c) git diff commit1 commit2
+		Ber saman tvær greinar
