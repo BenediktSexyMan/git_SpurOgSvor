@@ -28,3 +28,5 @@
 		Gerir hið sama og --chached
 	c) git diff commit1 commit2
 		Ber saman tvær greinar
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Það geymir allar útgáfur af verkefni og leyfir manni að hoppa á milli þeirra
