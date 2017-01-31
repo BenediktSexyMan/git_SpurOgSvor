@@ -21,3 +21,8 @@
 		Sýnir breytingar á milli commits
 	git checkout
 		Breytir um hvaða branch maður er staddur í
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+		Sýnir breytingar á milli commits
+	b) git diff --staged
+		Gerir hið sama og --chached
