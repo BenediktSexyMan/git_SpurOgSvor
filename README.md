@@ -30,3 +30,5 @@
 		Ber saman tvær greinar
 4. 	Hvað er útgáfustýring (e.version control)? 
 	Það geymir allar útgáfur af verkefni og leyfir manni að hoppa á milli þeirra
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Að vinna með fólki á milli tölva
